@@ -1,2 +1,2 @@
 The code will be uploaded to this repository later.
-<HKT: A Hierarchical Knowledge Tracing Framework with Personalied Learning Indicators>
+<MCKT: A Novel Multi-Channel Knowledge Tracing Framework with Convolution‑Augmented Attention>
